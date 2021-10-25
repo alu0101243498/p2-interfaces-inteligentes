@@ -35,4 +35,8 @@ public class player2Move : MonoBehaviour
             transform.position = playerPosition;
         }
     }
+
+    void OnCollisionEnter(Collision col) {
+        Debug.Log("Colisión con " + col.gameObject.name);
+    }
 }
