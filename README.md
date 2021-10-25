@@ -59,3 +59,7 @@ He añadido todas las especificaciones que se pedían para esta práctica; los 3
 - **Esfera que se mueve con I L J M y detecta colisiones**
 
 ![player2new](https://user-images.githubusercontent.com/72921642/138733080-60feb25b-196f-4dea-a123-7e3afb75e2a2.gif)
+
+### Ejecución del juego
+
+![final](https://user-images.githubusercontent.com/72921642/138734827-8b50836a-e33e-4216-ba1c-2a168e7dd6d7.gif)
