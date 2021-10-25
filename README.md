@@ -38,7 +38,7 @@ La esfera tiene 10 veces la masa del cubo y el cubo no puede rotar sobre el plan
 ![7](https://user-images.githubusercontent.com/72921642/138612118-004e37aa-5bd6-4f35-9881-2a9de83ee3e9.gif)
 
 ### Funcionamiento global de la práctica
-He añadido todas las especificaciones que se pedían para esta práctica; los 3 tipos de cilindros, los cubos que aumentan y disminuyen su tamaño y una esfera que se mueve con las teclas I L J M. El funcionamiento es el siguiente:
+He añadido todas las especificaciones que se pedían para esta práctica; los 3 tipos de cilindros, los cubos que aumentan y disminuyen su tamaño y una esfera que se mueve con las teclas I L J M. Para distinguir los cilindros asigné un color diferente a cada tipo; los cilindros que aumentan de tamaño al chocar son de color amarillo, los que se alejan del jugador cuando este está cerca son gris y los cilindros tipo A son naranja. El funcionamiento es el siguiente:
 
 - **Cilindros que aumentan su tamaño al chocar y aumentan la puntuacion del jugador**
 
