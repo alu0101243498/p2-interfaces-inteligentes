@@ -56,6 +56,6 @@ He añadido todas las especificaciones que se pedían para esta práctica; los 3
 
 ![cubos](https://user-images.githubusercontent.com/72921642/138612454-803a5604-5249-4584-82d5-dab37512ec6b.gif)
 
-- **Esfera que se mueve con I L J M**
+- **Esfera que se mueve con I L J M y detecta colisiones**
 
-![player2](https://user-images.githubusercontent.com/72921642/138612515-3b038a8d-134e-4c85-832c-dd786b16986f.gif)
+![player2new](https://user-images.githubusercontent.com/72921642/138733080-60feb25b-196f-4dea-a123-7e3afb75e2a2.gif)
