@@ -36,13 +36,14 @@ public class playerMove : MonoBehaviour
             }
         }*/
 
+        /*
         // Al pulsar espacio lo mueve hacia fuera de él
         corrector = new Vector3(3f, 0f, 3f);
         if (Input.GetKey(KeyCode.Space)) {
             foreach(GameObject i in cylinderA) {
                 i.transform.position = transform.position + corrector; 
             }
-        }
+        }*/
     }
 
     void OnCollisionEnter(Collision col) {

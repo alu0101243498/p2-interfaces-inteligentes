@@ -33,7 +33,7 @@ Además de activar el IsTrigger del cubo le añadimos físicas. Al ejecutar el j
 ![6](https://user-images.githubusercontent.com/72921642/138612082-ff29f91d-0c43-4671-a1b3-2fcddaf33808.gif)
 
 ### Ejercicio 7
-La esfera tiene 10 veces la masa del cubo y el cubo no puede rotar sobre el plano XZ. Para esto último desarrollé un nuevo script que asigné al cubo donde obtuve el componenete Rigidbody del cubo y establecí que este no puediera rotar mediante la sentencia 'rigidbody.freezeRotation = true'. Esto lo que hace es eliminar la rotación del objeto. Por tanto, en la ejecución la esfera será muy dificil de mover puesto que tiene una masa muy grande y el cubo al ser chocado no rotará sino que solo se moverá hacia la dirección en la que fue empujado.
+La esfera tiene 10 veces la masa del cubo y el cubo no puede rotar sobre el plano XZ. Para esto último desarrollé un nuevo script (noRotation.cs) que asigné al cubo donde obtuve el componenete Rigidbody del mismo y establecí que este no puediera rotar mediante la sentencia 'rigidbody.freezeRotation = true'. Esto lo que hace es eliminar la rotación del objeto. Por tanto, en la ejecución la esfera será muy dificil de mover puesto que tiene una masa muy grande y el cubo al ser chocado no rotará sino que solo se moverá hacia la dirección en la que fue empujado.
 
 ![7](https://user-images.githubusercontent.com/72921642/138612118-004e37aa-5bd6-4f35-9881-2a9de83ee3e9.gif)
 
@@ -50,7 +50,7 @@ He añadido todas las especificaciones que se pedían para esta práctica; los 3
 
 - **Cilindros que se alejan al pulsar el espacio**
 
-![cilindrosA]()
+![cilindrosA](https://user-images.githubusercontent.com/72921642/138729676-93e1ec3d-d58c-41dd-9982-2bc237906706.gif)
 
 - **Cubos que aumentan y disminuyen de tamaño:** En este caso pasó algo bastante curioso, al acercarme con el jugador, el cubo disminuía de tamaño, pero cuando llegaba a tamaño 0 empezaba a crecer porque no se permiten tamaños de objetos negativos y se calculan en valor absoluto.
 
